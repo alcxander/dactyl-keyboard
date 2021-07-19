@@ -1,3 +1,23 @@
+#Extending the project into my own territory
+
+adding resources here I have piucked up during research. Ultimate goal is to build a dactyl manuform likely 5x6 with rotary encoders maybe one each side. Probably for scrolling purposes or something that allows me to switch screens more rapidly not sure yet but like the idea of rotary encoders.
+
+
+resources to date:
+
+
+
+https://www.thingiverse.com/thing:3770166 - adapter for rotary encoder to fit cherry mx slot
+
+https://github.com/victorlucachi/void_ergo - another ergo keyboard that uses 3.5mm jack
+
+https://www.thingiverse.com/thing:4628137 - related to above
+
+
+
+
+
+
 # The Dactyl-ManuForm Keyboard
 This is a fork of the [Dactyl](https://github.com/adereth/dactyl-keyboard), a parameterized, split-hand, concave, columnar, ergonomic keyboard.
 
