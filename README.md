@@ -15,6 +15,13 @@ https://www.thingiverse.com/thing:4628137 - related to above
 
 https://github.com/LouWii/ErgoMax - another ergo resource with 3.5mm linkage
 
+https://www.youtube.com/watch?v=dWC_8BOArzc - most detailed video seen to date (series, several hours)
+
+https://github.com/carbonfet/dactyl-manuform // https://www.youtube.com/watch?v=DpnDz8aXFjE - did not find this video/repo useful
+
+https://www.youtube.com/watch?v=UerP5bxGL3c - best explanation found to date (props to this user for diode explanations)
+
+
 
 
 
