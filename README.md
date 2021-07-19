@@ -19,10 +19,9 @@ https://www.youtube.com/watch?v=dWC_8BOArzc - most detailed video seen to date (
 
 https://github.com/carbonfet/dactyl-manuform // https://www.youtube.com/watch?v=DpnDz8aXFjE - did not find this video/repo useful
 
-https://www.youtube.com/watch?v=UerP5bxGL3c - best explanation found to date (props to this user for diode explanations)
+https://www.youtube.com/watch?v=UerP5bxGL3c - best explanation found to date (props to this user for diode explanations) bonus part 3: https://www.youtube.com/watch?v=vLsgsmZssuk
 
-
-
+https://thangs.com/ZackFreedman/DactylManuForm-5x6-Mechanical-Keyboard-10466 (original resource from Zack prompting the build)
 
 
 
