@@ -13,6 +13,10 @@ https://github.com/victorlucachi/void_ergo - another ergo keyboard that uses 3.5
 
 https://www.thingiverse.com/thing:4628137 - related to above
 
+https://github.com/LouWii/ErgoMax - another ergo resource with 3.5mm linkage
+
+
+
 
 
 
