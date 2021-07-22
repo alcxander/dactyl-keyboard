@@ -25,7 +25,7 @@ https://thangs.com/ZackFreedman/DactylManuForm-5x6-Mechanical-Keyboard-10466 (or
 
 https://www.youtube.com/watch?v=y0F8Mig40m0 - video from infinite offset was a good watch
 
-
+https://www.youtube.com/watch?v=VlHgEqLVYqA - should probably start a resources tab or something at this point lol. this was based off of Zacks video
 
 
 
