@@ -27,7 +27,7 @@ https://www.youtube.com/watch?v=y0F8Mig40m0 - video from infinite offset was a g
 
 https://www.youtube.com/watch?v=VlHgEqLVYqA - should probably start a resources tab or something at this point lol. this was based off of Zacks video
 
-
+https://www.youtube.com/watch?v=SkNGxM4LRKQ - explaining different types of keyboards for comparison and overview notes
 
 
 # The Dactyl-ManuForm Keyboard
