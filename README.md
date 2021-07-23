@@ -27,7 +27,7 @@ https://www.youtube.com/watch?v=y0F8Mig40m0 - video from infinite offset was a g
 
 https://www.youtube.com/watch?v=VlHgEqLVYqA - should probably start a resources tab or something at this point lol. this was based off of Zacks video
 
-https://www.youtube.com/watch?v=SkNGxM4LRKQ - explaining different types of keyboards for comparison and overview notes
+https://www.youtube.com/watch?v=SkNGxM4LRKQ - explaining different types of keyboards for comparison and overview notes (I have never heard of 'shift' keys being referred to as function keys but damn if that doesn't make sense)
 
 
 # The Dactyl-ManuForm Keyboard
