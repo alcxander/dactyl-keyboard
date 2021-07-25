@@ -27,3 +27,5 @@ https://www.youtube.com/watch?v=y0F8Mig40m0 - video from infinite offset was a g
 https://www.youtube.com/watch?v=VlHgEqLVYqA - should probably start a resources tab or something at this point lol. this was based off of Zacks video
 
 https://www.youtube.com/watch?v=SkNGxM4LRKQ - explaining different types of keyboards for comparison and overview notes (I have never heard of 'shift' keys being referred to as function keys but damn if that doesn't make sense)
+
+https://www.youtube.com/watch?v=2xmAIC0CmGM - Corne project build, has "TRRS jack" which is useful for comaprison on how we use our own jack connector. A pre built board makes this project seem much MUCH easier. also there are some keycap snaps that make it look much easier to hot swap the keycaps as and when you want to as opposed to de soldering them. looks dope.
