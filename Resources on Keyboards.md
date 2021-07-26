@@ -29,3 +29,11 @@ https://www.youtube.com/watch?v=VlHgEqLVYqA - should probably start a resources 
 https://www.youtube.com/watch?v=SkNGxM4LRKQ - explaining different types of keyboards for comparison and overview notes (I have never heard of 'shift' keys being referred to as function keys but damn if that doesn't make sense)
 
 https://www.youtube.com/watch?v=2xmAIC0CmGM - Corne project build, has "TRRS jack" which is useful for comaprison on how we use our own jack connector. A pre built board makes this project seem much MUCH easier. also there are some keycap snaps that make it look much easier to hot swap the keycaps as and when you want to as opposed to de soldering them. looks dope.
+
+
+https://www.youtube.com/watch?v=LgEkusmH-9k - interesting life story here and resources shared on programming the keyboard like vimium looks interesting for reducing mouse requirements.
+
+https://www.youtube.com/watch?v=yhu3s1ut3wM - not keyboard related but the wiring at crtain points had some interesting takeaways which helped clarify some points for me when doing the wiring
+
+https://www.youtube.com/watch?v=yiwUjLaebuw - topic of keybinds and how to lay them out. discussion on other typing types as well. 
+
