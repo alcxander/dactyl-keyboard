@@ -13,6 +13,10 @@ finding it difficult to find any clear and concise details about how exactly to 
 
 
 
+Started looking up QMK and how to flash the drive with it. Did not get the Arduino Pro Micro ended up getting another chipset [entirely](https://www.amazon.co.uk/gp/product/B07DF5CPTB/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1) there is a requirement mentioned that these chipsets need to be 'ATmega32u4' to check this you can find it on the chip (the black square chip) printed faintly. TODO: put image here locating wording sought.
+
+
+
 
 
 #example md
