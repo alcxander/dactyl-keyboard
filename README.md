@@ -1,33 +1,4 @@
-#Extending the project into my own territory
-
-adding resources here I have piucked up during research. Ultimate goal is to build a dactyl manuform likely 5x6 with rotary encoders maybe one each side. Probably for scrolling purposes or something that allows me to switch screens more rapidly not sure yet but like the idea of rotary encoders.
-
-
-resources to date:
-
-
-
-https://www.thingiverse.com/thing:3770166 - adapter for rotary encoder to fit cherry mx slot
-
-https://github.com/victorlucachi/void_ergo - another ergo keyboard that uses 3.5mm jack
-
-https://www.thingiverse.com/thing:4628137 - related to above
-
-https://github.com/LouWii/ErgoMax - another ergo resource with 3.5mm linkage
-
-https://www.youtube.com/watch?v=dWC_8BOArzc - most detailed video seen to date (series, several hours)
-
-https://github.com/carbonfet/dactyl-manuform // https://www.youtube.com/watch?v=DpnDz8aXFjE - did not find this video/repo useful
-
-https://www.youtube.com/watch?v=UerP5bxGL3c - best explanation found to date (props to this user for diode explanations) bonus part 3: https://www.youtube.com/watch?v=vLsgsmZssuk
-
-https://thangs.com/ZackFreedman/DactylManuForm-5x6-Mechanical-Keyboard-10466 (original resource from Zack prompting the build)
-
-https://www.youtube.com/watch?v=y0F8Mig40m0 - video from infinite offset was a good watch
-
-https://www.youtube.com/watch?v=VlHgEqLVYqA - should probably start a resources tab or something at this point lol. this was based off of Zacks video
-
-https://www.youtube.com/watch?v=SkNGxM4LRKQ - explaining different types of keyboards for comparison and overview notes (I have never heard of 'shift' keys being referred to as function keys but damn if that doesn't make sense)
+#removed resources and transferred to own file
 
 
 # The Dactyl-ManuForm Keyboard
